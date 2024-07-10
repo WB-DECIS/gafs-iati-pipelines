@@ -149,3 +149,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# DGGS: Ignore session_store.db
+session_store.db
